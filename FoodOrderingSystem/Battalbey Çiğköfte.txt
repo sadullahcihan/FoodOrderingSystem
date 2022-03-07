@@ -1,0 +1,12 @@
+çiğköfte
+F,56,çiğköfte dürüm,5,5000
+D,57,kola,3,10000
+D,58,ayran,3,10000
+F,59,çiğköfte dürüm,5,5000
+F,60,çiğköfte porsiyon,10,4000
+F,61,çiğköfte duble porsiyon,20,4000
+F,62,çiğköfte kilo,50,500
+D,63,şalgam,4,10000
+D,64,su,2,20000
+D,65,sade soda,2,15050
+D,66,meyveli soda,3,12000

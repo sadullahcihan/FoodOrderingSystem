@@ -1,0 +1,23 @@
+kebap
+F,12,adana dürüm,13,500
+F,12,urfa dürüm,13,500
+F,12,tavuk şiş dürüm,13,550
+F,12,et şiş dürüm,18,600
+F,13,çöp şiş dürüm,18,200
+F,14,çoban salata,8,700
+F,15,mevsim salata,8,700
+F,16,ezme,8,700
+F,17,içli köfte,5,1100
+F,18,lahmacun,8,1100
+F,20,fındık lahmacun,4,1100
+F,21,fırında sütlaç,9,1100
+F,22,künefe,13,1100
+F,23,kaymaklı künefe,16,1100
+D,24,kola,3,10000
+D,25,sarı kola,3,10000
+D,26,Zafer gazoz,4,10000
+D,27,ayran,3,10000
+D,28,şalgam,4,10000
+D,29,su,2,20000
+D,30,sade soda,2,15050
+D,31,meyveli soda,3,12000

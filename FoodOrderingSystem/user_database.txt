@@ -1,0 +1,3 @@
+id,name,email,password,phone,address,birthday
+0%%%Özcan%%%ozz@gmail.com%%%12345%%%+905353297646%%%Gandıralı%%%07.05.2000%%%N
+1%%%Sadullah%%%ozz@gmail.com%%%foodSepeti5%%%+905426040270%%%Denizli Merkez%%%07.05.2000%%%N
